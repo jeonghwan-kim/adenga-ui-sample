@@ -1,0 +1,16 @@
+{
+  "name": "agenda-ui-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^0.7.5",
+    "agenda-ui": "0.0.7",
+    "express": "^4.13.3"
+  }
+}
